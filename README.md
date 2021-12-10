@@ -6,4 +6,4 @@
 <br>
 
 <h2>현재 공부중...!</h2>
-JS, React, TS, Next.js, 
+JS, React, TS, Next.js, ...
