@@ -8,7 +8,7 @@
 <h2>📗 현재 공부중...!</h2>
 
 <h4>🌎 언어</h4>
-JS, React, TS, ... <br>
+JS, React, TS, React-Native ... <br>
 
 <h4>📐 프레임워크</h4>
 Next.js, ...
