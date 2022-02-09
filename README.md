@@ -15,3 +15,7 @@ Next.js, ...
 
 <h4>🖥 ETC</h4>
 Figma
+
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UNNEW-main&show_icons=true&theme=swift)
