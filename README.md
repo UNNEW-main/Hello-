@@ -4,8 +4,8 @@
 수 많은 개발자들과 이야기를 나누고 프로젝트를 진행하며 소통과 개발의 재미를 느낄 수 있는 그런 개발자를 목표로 공부 중입니다! <br>
 지금은 자신의 부족한 것이 많다는 것을 알기에 그 부족한 것을 채우는 재미로 살아가고 있습니다.<br>
 <br>
-
-<h2>기술스택</h2>
+<br>
+<h1>기술스택</h1>
 
 <h4>언어</h4>
 <div style="display: flex">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
-
+<br>
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UNNEW-main&show_icons=true&theme=swift)
